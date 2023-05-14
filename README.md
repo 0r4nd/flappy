@@ -1,6 +1,7 @@
 # Flappy clone
 
 This is a game I made to test my old-school display functions
+- drawing use this [LUT](https://github.com/0r4nd/RGB555toCHARINFO)
 - bilinear, rotozoom, text, hline, alphablend, etc
 - the music was composed by me
 
