@@ -2,7 +2,7 @@
 #include <math.h>
 #include "colorUtil.h"
 
-#include "../RGB555toCHARINFO.c"
+#include "../../assets/RGB555toCHARINFO.txt"
 
 
 
